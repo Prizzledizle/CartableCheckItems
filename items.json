@@ -1,10 +1,16 @@
 {
-    "hotDropItems": [
+    "https://www.zalando.de": [
         "https://www.zalando.de/jordan-air-1-mid-se-sneaker-high-dark-chocolatecrimson-blissarchaeo-brownblacksail-joc12n01u-o11.html",
         "https://www.zalando.de/nike-sportswear-dunk-retro-se-sneaker-high-whiteblack-white-ni112n02q-a11.html",
         "https://www.zalando.de/nike-sportswear-dunk-retro-se-sneaker-high-blackhyper-royalwhite-ni112n02q-q11.html",
         "https://www.zalando.de/jordan-air-1-mid-se-syn-sneaker-high-electro-orangeblackwhite-joc12n01n-h11.html",
-        "https://www.zalando.de/jordan-air-jordan-1-mid-sneaker-high-noble-greenpollenwhite-joc12n001-m11.html",
-        "https://www.zalando.de/nike-sportswear-dunk-retro-nn-sneaker-high-rattanblacksummit-whitesailmedium-brownbarely-volt-ni112n02r-a11.html"
+        "https://www.zalando.de/jordan-air-jordan-1-mid-sneaker-high-noble-greenpollenwhite-joc12n001-m11.html"
+    ],
+    "https://www.zalando.at" : [
+        "https://www.zalando.at/jordan-air-1-mid-se-syn-sneaker-high-electro-orangeblackwhite-joc12n01n-h11.html",
+        "https://www.zalando.at/jordan-air-jordan-1-mid-sneaker-high-noble-greenpollenwhite-joc12n001-m11.html",
+        "https://www.zalando.at/nike-sportswear-dunk-retro-se-sneaker-high-whiteblack-white-ni112n02q-a11.html",
+        "https://www.zalando.at/nike-sportswear-dunk-retro-se-sneaker-high-blackhyper-royalwhite-ni112n02q-q11.html",
+        "https://www.zalando.at/jordan-air-1-mid-se-sneaker-high-dark-chocolatecrimson-blissarchaeo-brownblacksail-joc12n01u-o11.html"
     ]
 }
